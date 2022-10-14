@@ -56,38 +56,38 @@ Atasan
 
 ### Aplication Installation
 
-1. Clone repository
+Clone repository
 
     git clone https://github.com/nashehannafii/intern.git
 
-2. Config directory
+Config directory
 
     move to -> /htdoc (windows->xampp)
     move to -> /html (linux->manual)
 
     cd intern
 
-3. Composer Install
+Composer Install
 
     composer install
 
-4. NPM Install
+NPM Install
 
     npm install
 
-5. Create DB
+Create DB
 
     create database intern (on mysql)
 
-6. Run migration
+Run migration
 
     php yii migrate/fresh
 
-7. Run server
+Run server
 
     php yii serve
 
-8. Open App on your favorite browser
+Open App on your favorite browser
 
     http://localhost:8080
 
