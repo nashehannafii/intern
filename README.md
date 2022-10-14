@@ -8,11 +8,44 @@
     <br>
 </p>
 
-### Requirement Aplication
+### Build Aplication
 
-Update your vendor packages
+Database Version
 
-    docker-compose run --rm php composer update --prefer-dist
+    Ver 15.1 Distrib 10.4.24-MariaDB, for Win64 (AMD64)
+
+PHP Version
+
+    PHP 8.1.6 (cli)
+
+NodeJS Version
+
+    v16.17.0
+
+npm Version
+
+    8.15.0
+
+Framework
+
+    Yii2 Basic
+
+### Users
+
+The Creator
+
+    username: theCreator
+    password: bismillah
+
+Administrator
+
+    username: admin
+    password: bismillah
+
+Atasan
+    username: atasan
+    password: bismillah
+
 
 ### Aplication Installation
 
