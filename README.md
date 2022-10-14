@@ -30,6 +30,10 @@ Framework
 
     Yii2 Basic
 
+Composer
+
+    version 1.10.26
+
 ### Users
 
 The Creator
@@ -52,6 +56,38 @@ Atasan
 
 ### Aplication Installation
 
-Clone repository
+1. Clone repository
 
-https://github.com/nashehannafii/intern.git
+    git clone https://github.com/nashehannafii/intern.git
+
+2. Config directory
+
+    move to -> /htdoc (windows->xampp)
+    move to -> /html (linux->manual)
+
+    cd intern
+
+3. Composer Install
+
+    composer install
+
+4. NPM Install
+
+    npm install
+
+5. Create DB
+
+    create database intern (on mysql)
+
+6. Run migration
+
+    php yii migrate/fresh
+
+7. Run server
+
+    php yii serve
+
+8. Open App on your favorite browser
+
+    http://localhost:8080
+
